@@ -1,6 +1,8 @@
 folium
 matplotlib
 numpy
+pandas
 Pillow
 ply
 PyVirtualDisplay
+seaborn
