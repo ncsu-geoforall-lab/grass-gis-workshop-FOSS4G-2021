@@ -6,3 +6,4 @@ Pillow
 ply
 PyVirtualDisplay
 seaborn
+tqdm
