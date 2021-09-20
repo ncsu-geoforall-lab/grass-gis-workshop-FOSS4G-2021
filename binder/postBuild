@@ -43,4 +43,5 @@ mkdir -p grassdata \
 wget http://fatra.cnr.ncsu.edu/foss4g2021/dsm.tif
 wget http://fatra.cnr.ncsu.edu/foss4g2021/ground.tif
 wget http://fatra.cnr.ncsu.edu/foss4g2021/ortho.tif
+wget http://fatra.cnr.ncsu.edu/foss4g2021/ortho.tif.aux.xml
 wget http://fatra.cnr.ncsu.edu/foss4g2021/roads_backup.geojson
