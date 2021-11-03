@@ -1,6 +1,6 @@
 # GRASS GIS: From Beginner to Power User (FOSS4G 2021 workshop)
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/petrasovaa/grass-gis-workshop-foss4g-2021/main?urlpath=lab%2Ftree%2Fworkshop_part_1.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ncsu-geoforall-lab/grass-gis-workshop-foss4g-2021/main?urlpath=lab%2Ftree%2Fworkshop_part_1.ipynb)
 
 This is a set of Jupyter Notebooks for FOSS4G 2021 workshop.
 
